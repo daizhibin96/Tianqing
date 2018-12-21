@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="tianqing"/>
+    <version value="1"/>
+    <list>
+        <mapping class="tianqing.com.example.tianqing.db.Province"/>
+        <mapping class="tianqing.com.example.tianqing.db.City"/>
+        <mapping class="tianqing.com.example.tianqing.db.County"/>
+    </list>
+</litepal>
